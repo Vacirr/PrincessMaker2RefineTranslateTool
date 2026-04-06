@@ -25,6 +25,15 @@ This tool is essentially a hex editor, but enhanced with QoL features:
 
 > Note: **"PE Analiz"** and **"EXE Fark"** are kinda experimental, so they might act weird
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/P5xL0R7.png" alt="PM2RefineV56TranslateTool" width="400"></td>
+    <td><img src="https://i.imgur.com/mqO3ixt.png" alt="PM2DataTool" width="400"></td>
+  </tr>
+</table>
+
 ---
 
 ## PM2DataTool
