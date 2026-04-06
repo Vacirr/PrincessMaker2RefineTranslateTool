@@ -41,3 +41,5 @@ Features:
 - Adds padding if the file is smaller  
 - Injects images properly with correct alignment  
 - May apply color filtering (not sure if available)
+
+This project was generated using AI tools with minimal manual intervention.
